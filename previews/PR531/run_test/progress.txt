@@ -1,4 +1,4 @@
-Starting SpeedyWeather.jl run test on Mon, 06 May 2024 13:07:37
+Starting SpeedyWeather.jl run test on Tue, 07 May 2024 08:03:26
 Integrating:
 SpectralGrid:
 ├ Spectral:   T63 LowerTriangularMatrix{Complex{Float32}}, radius = 6.371e6 m
@@ -10,24 +10,24 @@ Time: 5.0 days at Δt = 450.0s
 All data will be stored in /home/runner/work/SpeedyWeather.jl/SpeedyWeather.jl/docs/build/run_test
 
   5%, ETA: 0:00:01,   Inf millenia/day
- 10%, ETA: 0:00:01, 1118.07 years/day
- 15%, ETA: 0:00:01, 857.49 years/day
- 20%, ETA: 0:00:01, 758.74 years/day
- 25%, ETA: 0:00:01, 949.42 years/day
- 30%, ETA: 0:00:01, 859.71 years/day
- 35%, ETA: 0:00:01, 785.11 years/day
- 40%, ETA: 0:00:01, 750.85 years/day
- 45%, ETA: 0:00:01, 844.96 years/day
- 50%, ETA: 0:00:01, 806.20 years/day
- 55%, ETA: 0:00:01, 776.11 years/day
- 60%, ETA: 0:00:01, 752.79 years/day
- 65%, ETA: 0:00:01, 737.08 years/day
- 70%, ETA: 0:00:00, 793.87 years/day
- 75%, ETA: 0:00:00, 772.52 years/day
- 80%, ETA: 0:00:00, 756.75 years/day
- 85%, ETA: 0:00:00, 742.02 years/day
- 90%, ETA: 0:00:00, 785.72 years/day
- 95%, ETA: 0:00:00, 766.64 years/day
-100%, ETA: 0:00:00, 752.90 years/day
+ 10%, ETA: 0:00:02, 1155.13 years/day
+ 15%, ETA: 0:00:01, 813.11 years/day
+ 20%, ETA: 0:00:01, 740.64 years/day
+ 25%, ETA: 0:00:01, 703.02 years/day
+ 30%, ETA: 0:00:01, 844.22 years/day
+ 35%, ETA: 0:00:01, 792.84 years/day
+ 40%, ETA: 0:00:01, 759.21 years/day
+ 45%, ETA: 0:00:01, 733.06 years/day
+ 50%, ETA: 0:00:01, 712.96 years/day
+ 55%, ETA: 0:00:01, 784.40 years/day
+ 60%, ETA: 0:00:01, 760.25 years/day
+ 65%, ETA: 0:00:01, 743.06 years/day
+ 70%, ETA: 0:00:00, 727.05 years/day
+ 75%, ETA: 0:00:00, 715.67 years/day
+ 80%, ETA: 0:00:00, 763.44 years/day
+ 85%, ETA: 0:00:00, 742.14 years/day
+ 90%, ETA: 0:00:00, 731.53 years/day
+ 95%, ETA: 0:00:00, 720.57 years/day
+100%, ETA: 0:00:00, 757.74 years/day
 
-Integration done in 1 second, 570 milliseconds.
+Integration done in 1 second, 560 milliseconds.
