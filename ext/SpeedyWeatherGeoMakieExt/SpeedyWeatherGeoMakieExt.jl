@@ -6,6 +6,7 @@ using GeoMakie
 using DocStringExtensions
 
 include("faces.jl")
+include("triangulation3d.jl")
 
 SpeedyWeather.globe(SG::SpectralGrid) = globe(SG.Grid, SG.nlat_half)
 SpeedyWeather.globe(geometry::Geometry{NF, Grid}) where {NF, Grid} = globe(Grid, geometry.nlat_half)
